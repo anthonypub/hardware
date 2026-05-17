@@ -3831,7 +3831,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "22b1a05f-98e7-4eea-990e-3b481fd1fd80")
-		(at 44.069 57.912 90)
+		(at 43.561 57.912 90)
 		(descr "Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 1x01 2.54mm single row")
 		(property "Reference" "J_STOMP_2"
@@ -7691,7 +7691,7 @@
 	(footprint "Potentiometer_THT:Potentiometer_Runtron_RM-063_Horizontal"
 		(layer "F.Cu")
 		(uuid "3e600301-0dca-47ad-b5e5-2e76a2728094")
-		(at 117.266 53.935 90)
+		(at 117.012 54.189 90)
 		(descr "Potentiometer, horizontal, Trimmer, RM-063 http://www.runtron.com/down/PDF%20Datasheet/Carbon%20Film%20Potentiometer/RM065%20RM063.pdf")
 		(tags "Potentiometer Trimmer RM-063")
 		(property "Reference" "DRIVE1"
@@ -16964,7 +16964,7 @@
 	(footprint "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 		(layer "F.Cu")
 		(uuid "a10a1478-4355-4864-ab2f-25868533ac5b")
-		(at 92.583 50.379 90)
+		(at 93.853 50.252 90)
 		(descr "C, Rect series, Radial, pin pitch=5.00mm, length*width=7.2*2.5mm^2, Capacitor, http://www.wima.com/EN/WIMA_FKS_2.pdf")
 		(tags "C Rect series Radial pin pitch 5.00mm length 7.2mm width 2.5mm Capacitor")
 		(property "Reference" "C7"
@@ -23648,7 +23648,7 @@
 	(footprint "Snapeda:AFL-W2C8.9D"
 		(layer "F.Cu")
 		(uuid "df9ed488-f296-4474-a49b-9fc2025b95ce")
-		(at 84.455 54.58968 -90)
+		(at 84.582 54.58968 -90)
 		(tags "1N914 ")
 		(property "Reference" "D3"
 			(at -4.45008 -2 270)
