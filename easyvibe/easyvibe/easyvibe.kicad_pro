@@ -140,7 +140,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 6.0,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
@@ -153,7 +153,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 6.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
         "solder_mask_to_copper_clearance": 0.0,
@@ -678,7 +678,7 @@
         "uuid": "4bb4501e-45c8-4c72-91ca-8621e8761900"
       }
     ],
-    "used_designators": "J_Batt_Pos1,J_OUT1,DEPTH1,DRIVE1,J_Batt_Neg1,J_IN_SLV1,J_IN1,J_IN_Ring1,J_IN_TIP1,J_OUT_SLV1,J_OUT_TIP1,RATE1,VIBCHOR1,R24-25",
+    "used_designators": "H1-4",
     "variants": []
   },
   "sheets": [
