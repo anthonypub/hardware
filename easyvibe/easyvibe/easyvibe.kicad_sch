@@ -6241,7 +6241,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 221.2848 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -6321,7 +6321,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 146.05 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -6421,7 +6421,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:AFL-W2C8.9D"
 			(at 88.9 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -6523,7 +6523,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 143.51 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -6600,7 +6600,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:RES_LR1_TYCO_TYC"
 			(at 189.23 94.488 90)
 			(hide yes)
 			(show_name no)
@@ -6760,7 +6760,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Radial_D5.0mm_H5.0mm_P2.00mm"
 			(at 226.06 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -6840,7 +6840,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 67.31 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -7100,7 +7100,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:T-100_4P8X3P15_ONS"
 			(at 31.75 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7193,7 +7193,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:RES_LR1_TYCO_TYC"
 			(at 79.502 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -7273,7 +7273,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:RES_LR1_TYCO_TYC"
 			(at 209.55 90.678 90)
 			(hide yes)
 			(show_name no)
@@ -7355,7 +7355,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 189.23 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -7524,7 +7524,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 120.65 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7704,7 +7704,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 31.4452 60.96 0)
 			(hide yes)
 			(show_name no)
@@ -7786,7 +7786,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 101.6 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -7865,7 +7865,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 73.66 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -7944,7 +7944,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 246.38 13.97 0)
 			(hide yes)
 			(show_name no)
@@ -8021,7 +8021,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 187.96 42.2148 0)
 			(hide yes)
 			(show_name no)
@@ -8103,7 +8103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 30.48 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -8182,7 +8182,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 105.41 16.51 0)
 			(hide yes)
 			(show_name no)
@@ -8261,7 +8261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:RES_LR1_TYCO_TYC"
 			(at 258.572 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -8341,7 +8341,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:RES_LR1_TYCO_TYC"
 			(at 107.95 85.598 90)
 			(hide yes)
 			(show_name no)
@@ -8499,7 +8499,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 171.45 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -8599,7 +8599,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 207.01 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -8676,7 +8676,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:T-100_4P8X3P15_ONS"
 			(at 190.5 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -8769,7 +8769,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:AFL-W2C8.9D"
 			(at 78.74 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -8951,7 +8951,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 53.0352 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9149,7 +9149,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 209.55 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -9249,7 +9249,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 30.48 19.05 0)
 			(hide yes)
 			(show_name no)
@@ -9490,7 +9490,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 49.53 19.05 0)
 			(hide yes)
 			(show_name no)
@@ -9647,7 +9647,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 264.16 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9726,7 +9726,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:RES_LR1_TYCO_TYC"
 			(at 224.282 58.42 90)
 			(hide yes)
 			(show_name no)
@@ -9966,7 +9966,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 162.56 44.7548 0)
 			(hide yes)
 			(show_name no)
@@ -10126,7 +10126,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 113.03 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -10297,7 +10297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 50.8 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -10397,7 +10397,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 110.49 19.05 0)
 			(hide yes)
 			(show_name no)
@@ -10476,7 +10476,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 70.612 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -10558,7 +10558,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 271.78 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -10637,7 +10637,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:T-100_4P8X3P15_ONS"
 			(at 36.83 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -10892,7 +10892,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 61.722 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -11054,7 +11054,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 88.9 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -11154,7 +11154,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 19.05 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -11334,7 +11334,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 135.89 46.0248 0)
 			(hide yes)
 			(show_name no)
@@ -11416,7 +11416,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 156.21 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -11495,7 +11495,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 55.88 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -11574,7 +11574,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 60.96 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -11653,7 +11653,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:AFL-W2C8.9D"
 			(at 39.37 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -12030,7 +12030,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:T-100_4P8X3P15_ONS"
 			(at 190.5 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -12123,7 +12123,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
 			(at 26.3652 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -12283,7 +12283,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:AFL-W2C8.9D"
 			(at 78.74 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -12387,7 +12387,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 40.64 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -12567,7 +12567,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:AFL-W2C8.9D"
 			(at 88.9 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -12827,7 +12827,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 109.22 47.2948 0)
 			(hide yes)
 			(show_name no)
@@ -13072,7 +13072,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 189.23 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -13151,7 +13151,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 31.75 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -13331,7 +13331,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
 			(at 72.39 38.4048 0)
 			(hide yes)
 			(show_name no)
@@ -13498,7 +13498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 265.43 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -13575,7 +13575,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:T-100_4P8X3P15_ONS"
 			(at 179.07 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -13668,7 +13668,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 264.16 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -13747,7 +13747,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 101.6 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -13826,7 +13826,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 271.78 13.97 0)
 			(hide yes)
 			(show_name no)
@@ -13905,7 +13905,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:RES_LR1_TYCO_TYC"
 			(at 106.172 97.79 90)
 			(hide yes)
 			(show_name no)
@@ -14341,7 +14341,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:RES_LR1_TYCO_TYC"
 			(at 91.44 50.038 90)
 			(hide yes)
 			(show_name no)
@@ -14423,7 +14423,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 35.56 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -14500,7 +14500,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:RES_LR1_TYCO_TYC"
 			(at 165.1 110.998 90)
 			(hide yes)
 			(show_name no)
@@ -14555,7 +14555,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14580,7 +14580,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Runtron_RM-063_Horizontal"
 			(at 148.59 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -14696,7 +14696,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 196.85 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -14794,7 +14794,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm"
 			(at 129.54 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -14892,7 +14892,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:T-100_4P8X3P15_ONS"
 			(at 179.07 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -14985,7 +14985,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 40.64 19.05 0)
 			(hide yes)
 			(show_name no)
@@ -15064,7 +15064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
 			(at 139.7 135.89 0)
 			(hide yes)
 			(show_name no)
