@@ -10352,7 +10352,7 @@
 	(footprint "Snapeda:YAG_MF25_YAG"
 		(layer "F.Cu")
 		(uuid "58a6de32-4277-4ac9-8732-11ad344c24a7")
-		(at 34.798 110.8583)
+		(at 35.052 109.601)
 		(tags "MFR-25FRF52-10K ")
 		(property "Reference" "R5"
 			(at 5.842 0 0)
@@ -27906,6 +27906,68 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "a948ab15-8cd7-46ba-95f5-f098ec8e40a5")
+	)
+	(zone
+		(net "GND")
+		(layers "F.Cu" "B.Cu")
+		(uuid "0932ece9-6e5a-4efa-b2a2-878fab036224")
+		(hatch edge 0.5)
+		(priority 1)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 45.847 91.186) (xy 142.113 91.186) (xy 142.113 92.456) (xy 45.847 92.329)
+			)
+		)
+	)
+	(zone
+		(net "GND")
+		(layers "F.Cu" "B.Cu")
+		(uuid "3cb04342-1198-43ca-a20c-b63e4170273f")
+		(hatch edge 0.5)
+		(priority 2)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 148.717 85.217) (xy 147.32 85.217) (xy 147.32 45.847) (xy 148.717 45.847)
+			)
+		)
+	)
+	(zone
+		(net "GND")
+		(layers "F.Cu" "B.Cu")
+		(uuid "cb97928e-006a-4527-9e63-d545cdc09da2")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0.5)
+		)
+		(min_thickness 0.25)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 39.116 47.117) (xy 40.132 47.117) (xy 40.132 85.471) (xy 38.989 85.344)
+			)
+		)
 	)
 	(embedded_fonts no)
 )
