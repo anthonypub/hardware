@@ -3377,12 +3377,6 @@
 		(uuid "4d584f63-9791-4c97-bd9c-bce9a12c0b0b")
 	)
 	(junction
-		(at 156.21 130.81)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5119ea9d-ec23-42ba-8e1c-9aad0426a5e8")
-	)
-	(junction
 		(at 25.4 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3399,12 +3393,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5bca082a-9c2e-47f7-affb-3c8bf03b47f4")
-	)
-	(junction
-		(at 113.03 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5f4f6cac-42ad-4809-8cfd-7971a4ebe6ba")
 	)
 	(junction
 		(at 179.07 39.37)
@@ -3429,6 +3417,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "67867e31-223c-40ec-819a-b2a0f79dd9c9")
+	)
+	(junction
+		(at 113.03 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "691323dc-feb2-47b3-9fac-d6e4c0974c64")
 	)
 	(junction
 		(at 39.37 54.61)
@@ -3471,12 +3465,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "79773f0f-1dc2-451b-bdff-05e026575e7f")
-	)
-	(junction
-		(at 148.59 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7b8c4fbb-6b0c-4d72-978e-871060611b31")
 	)
 	(junction
 		(at 137.16 41.91)
@@ -3988,6 +3976,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 110.49) (xy 121.92 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e62e5e5-333e-4497-a9b2-2c267471c473")
+	)
+	(wire
+		(pts
 			(xy 189.23 76.2) (xy 181.61 76.2)
 		)
 		(stroke
@@ -4465,16 +4463,6 @@
 			(type default)
 		)
 		(uuid "49fc822b-8d7d-4870-8bb6-1bbb0870a19f")
-	)
-	(wire
-		(pts
-			(xy 121.92 114.3) (xy 113.03 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4aeb4b48-e56b-4e3a-ba6e-d3661cbcaca8")
 	)
 	(wire
 		(pts
@@ -5028,7 +5016,17 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 109.22) (xy 148.59 124.46)
+			(xy 114.3 111.76) (xy 114.3 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85ad1fae-52a0-4a55-867a-ba5f167f2511")
+	)
+	(wire
+		(pts
+			(xy 148.59 109.22) (xy 148.59 127)
 		)
 		(stroke
 			(width 0)
@@ -5548,6 +5546,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 114.3) (xy 113.03 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8ea6036-3e96-45ab-bd1d-76acb99e5861")
+	)
+	(wire
+		(pts
 			(xy 52.07 86.36) (xy 52.07 74.93)
 		)
 		(stroke
@@ -5585,16 +5593,6 @@
 			(type default)
 		)
 		(uuid "bc42ea9d-5783-49c8-908b-2b09dacf9c81")
-	)
-	(wire
-		(pts
-			(xy 121.92 110.49) (xy 121.92 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bca31619-a019-4331-af91-ae782c47aa91")
 	)
 	(wire
 		(pts
@@ -5905,16 +5903,6 @@
 			(type default)
 		)
 		(uuid "dba67e32-9bda-4cad-b483-2f86015c96f0")
-	)
-	(wire
-		(pts
-			(xy 148.59 124.46) (xy 148.59 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbba3b6f-5a31-4002-9649-f93e527b6678")
 	)
 	(wire
 		(pts
@@ -6585,83 +6573,6 @@
 			(project "easyvibe"
 				(path "/4bb4501e-45c8-4c72-91ca-8621e8761900"
 					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Socket")
-		(at 143.51 124.46 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0a7244bd-5046-4e6a-b0db-186d4115f853")
-		(property "Reference" "J_DRIVE2"
-			(at 144.145 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "C"
-			(at 144.145 121.92 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
-			(at 143.51 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 143.51 124.46 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f8e25b6f-c28a-4364-8739-de839318a1ac")
-		)
-		(instances
-			(project "easyvibe"
-				(path "/4bb4501e-45c8-4c72-91ca-8621e8761900"
-					(reference "J_DRIVE2")
 					(unit 1)
 				)
 			)
@@ -9735,7 +9646,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical"
+		(property "Footprint" "Snapeda:TO_NSL_19M_ADP"
 			(at 168.275 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -10767,6 +10678,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 118.11 111.76 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "88989b2f-222d-43de-8f04-04711c604905")
+		(property "Reference" "R24"
+			(at 118.11 105.41 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1K"
+			(at 118.11 107.95 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Snapeda:RES_LR1_TYCO_TYC"
+			(at 118.11 113.538 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 118.11 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "047176a7-d041-4868-b286-d1fd67879cfb")
+		)
+		(pin "1"
+			(uuid "7e2a221d-6c1c-4aec-b662-aefaa62d6510")
+		)
+		(instances
+			(project "easyvibe"
+				(path "/4bb4501e-45c8-4c72-91ca-8621e8761900"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x01_Socket")
 		(at 110.49 19.05 90)
 		(unit 1)
@@ -11377,7 +11368,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical"
+		(property "Footprint" "Snapeda:TO_NSL_19M_ADP"
 			(at 141.605 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -11657,7 +11648,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical"
+		(property "Footprint" "Snapeda:TO_NSL_19M_ADP"
 			(at 193.675 53.34 90)
 			(hide yes)
 			(show_name no)
@@ -11780,85 +11771,6 @@
 			(project "easyvibe"
 				(path "/4bb4501e-45c8-4c72-91ca-8621e8761900"
 					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Socket")
-		(at 156.21 135.89 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a4e6603f-59d8-4909-ac19-68c09c507f96")
-		(property "Reference" "J_DRIVE3"
-			(at 157.48 133.9849 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 157.48 136.5249 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
-			(at 156.21 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 156.21 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1d617f9c-796b-4ff7-a0a7-718ecfe3874d")
-		)
-		(instances
-			(project "easyvibe"
-				(path "/4bb4501e-45c8-4c72-91ca-8621e8761900"
-					(reference "J_DRIVE3")
 					(unit 1)
 				)
 			)
@@ -14586,7 +14498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "OptoDevice:R_LDR_10x8.5mm_P7.6mm_Vertical"
+		(property "Footprint" "Snapeda:TO_NSL_19M_ADP"
 			(at 116.205 52.07 90)
 			(hide yes)
 			(show_name no)
@@ -15428,85 +15340,6 @@
 			(project "easyvibe"
 				(path "/4bb4501e-45c8-4c72-91ca-8621e8761900"
 					(reference "J_IN_Ring1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x01_Socket")
-		(at 139.7 135.89 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ff3405a3-9e9a-4536-83d6-8a1a71fb8e04")
-		(property "Reference" "J_DRIVE1"
-			(at 140.97 133.9849 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "C"
-			(at 140.97 136.5249 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical"
-			(at 139.7 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 139.7 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
-			(at 139.7 135.89 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d098f6d6-0a5e-4a14-bfd2-5bd7361fcba1")
-		)
-		(instances
-			(project "easyvibe"
-				(path "/4bb4501e-45c8-4c72-91ca-8621e8761900"
-					(reference "J_DRIVE1")
 					(unit 1)
 				)
 			)
