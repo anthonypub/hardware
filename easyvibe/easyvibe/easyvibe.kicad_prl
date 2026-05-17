@@ -125,7 +125,7 @@
     "selection_filter": {
       "graphics": false,
       "images": false,
-      "labels": false,
+      "labels": true,
       "lockedItems": false,
       "otherItems": false,
       "pins": false,
