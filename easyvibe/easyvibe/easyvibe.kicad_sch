@@ -3269,22 +3269,28 @@
 		(uuid "0088dcb5-3ea0-44f7-b1ce-b1fd18eb2107")
 	)
 	(junction
+		(at 179.07 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0271ce65-f41b-4384-8764-11366b2aa8de")
+	)
+	(junction
 		(at 38.1 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0d9554fb-29a5-4066-98c5-4d5a7010fc6a")
 	)
 	(junction
-		(at 189.23 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0da40dd9-fae1-43e6-9589-20acd41a8c62")
-	)
-	(junction
 		(at 88.9 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0f629be6-3f6d-46ca-8e8f-f086b8e03f8e")
+	)
+	(junction
+		(at 163.83 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11464071-07b1-4115-a9f8-aa0f38059ee1")
 	)
 	(junction
 		(at 259.08 90.17)
@@ -3309,12 +3315,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1dcf92a6-5f09-47df-ad55-6c30d35c6974")
-	)
-	(junction
-		(at 111.76 43.18)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "20a35347-3204-483b-b84f-fda61bcb75b8")
 	)
 	(junction
 		(at 185.42 140.97)
@@ -3353,6 +3353,12 @@
 		(uuid "37388ad8-bd4e-4344-974f-4645a0a65d00")
 	)
 	(junction
+		(at 137.16 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3899ef7b-db51-46d5-8983-e53c0f63378d")
+	)
+	(junction
 		(at 88.9 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3365,22 +3371,28 @@
 		(uuid "3e1e73b0-7bff-4ceb-8796-c150672ee588")
 	)
 	(junction
+		(at 218.44 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "449c2837-286b-490a-b217-c03c176c60d0")
+	)
+	(junction
 		(at 107.95 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4cc5383e-c7f5-49a4-bb4a-74f042a46b75")
 	)
 	(junction
-		(at 163.83 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d584f63-9791-4c97-bd9c-bce9a12c0b0b")
-	)
-	(junction
 		(at 25.4 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5397e798-602e-4f40-b007-201438e4ea5f")
+	)
+	(junction
+		(at 189.23 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56ad0615-2cea-4fe2-ac26-934cbef59e33")
 	)
 	(junction
 		(at 25.4 60.96)
@@ -3395,12 +3407,6 @@
 		(uuid "5bca082a-9c2e-47f7-affb-3c8bf03b47f4")
 	)
 	(junction
-		(at 179.07 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6063b178-81b1-4076-89e9-ce9f85a6d719")
-	)
-	(junction
 		(at 185.42 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3411,6 +3417,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "639b6441-2ef2-4290-8563-e95ccb80c02e")
+	)
+	(junction
+		(at 111.76 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65caebca-9b99-4195-90dd-6ce077e819d5")
 	)
 	(junction
 		(at 25.4 46.99)
@@ -3431,10 +3443,10 @@
 		(uuid "6d5b6158-a712-45bb-bfb7-b43d92b0af9d")
 	)
 	(junction
-		(at 204.47 38.1)
+		(at 163.83 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "708fbbb3-bce4-45eb-b3b5-9c5a0c19ed43")
+		(uuid "6fdecaf4-f3b9-4f76-902a-5bf6c5e1b2de")
 	)
 	(junction
 		(at 180.34 39.37)
@@ -3467,12 +3479,6 @@
 		(uuid "79773f0f-1dc2-451b-bdff-05e026575e7f")
 	)
 	(junction
-		(at 137.16 41.91)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7f5f3783-7fdd-462e-b74c-276a82e7aea7")
-	)
-	(junction
 		(at 21.59 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3485,10 +3491,10 @@
 		(uuid "82e9627d-e095-48d7-a09c-a26707b55e67")
 	)
 	(junction
-		(at 163.83 41.91)
+		(at 218.44 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "91b98a60-d87e-4169-9055-be7447f30e41")
+		(uuid "91ce8cb5-531c-48e8-bb6a-b49dba4894ef")
 	)
 	(junction
 		(at 201.93 148.59)
@@ -3503,16 +3509,16 @@
 		(uuid "94488abe-a437-4e70-95a7-05c85e9aec57")
 	)
 	(junction
+		(at 111.76 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b4bbaa55-bda6-464a-9b2a-927c775657e1")
+	)
+	(junction
 		(at 226.06 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b52ccf4c-b8cc-41b6-a269-07187600261d")
-	)
-	(junction
-		(at 137.16 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b631a2e1-9fe6-4f1b-ae84-119bfed57651")
 	)
 	(junction
 		(at 30.48 24.13)
@@ -3539,6 +3545,12 @@
 		(uuid "bf608a6d-26d2-4f27-af29-cfe579fbcab7")
 	)
 	(junction
+		(at 204.47 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c3d14c54-79b3-4d23-92bf-b7c98447078d")
+	)
+	(junction
 		(at 201.93 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3549,12 +3561,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c8c1ce4a-e24e-4146-b6f9-02442579a58b")
-	)
-	(junction
-		(at 111.76 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cb13918d-5e78-4fa8-a3d3-10087688069a")
 	)
 	(junction
 		(at 88.9 116.84)
@@ -3633,6 +3639,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ec4f59b5-5825-4711-a9d7-9e4a75fe8a9c")
+	)
+	(junction
+		(at 137.16 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "edd0353c-fcbd-4e5f-93d5-c3db80d171e3")
 	)
 	(junction
 		(at 153.67 39.37)
@@ -3836,7 +3848,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 102.87) (xy 252.73 102.87)
+			(xy 217.17 102.87) (xy 218.44 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4236,6 +4248,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 102.87) (xy 252.73 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32bdb408-dedb-4461-aeb9-161f42fe531a")
+	)
+	(wire
+		(pts
 			(xy 266.7 95.25) (xy 259.08 95.25)
 		)
 		(stroke
@@ -4346,16 +4368,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 41.91) (xy 138.43 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3d077112-8d67-4749-a73b-4bd82bfacf03")
-	)
-	(wire
-		(pts
 			(xy 55.88 16.51) (xy 55.88 21.59)
 		)
 		(stroke
@@ -4423,6 +4435,16 @@
 			(type default)
 		)
 		(uuid "453fd5dc-1ce1-4c73-b107-a3b294b8434e")
+	)
+	(wire
+		(pts
+			(xy 137.16 36.83) (xy 138.43 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "465d9ad9-3afd-44e0-90b2-f0299e911cf9")
 	)
 	(wire
 		(pts
@@ -4546,16 +4568,6 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 36.83) (xy 138.43 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53dda333-3b06-4c7b-b1f8-d57b75edc311")
-	)
-	(wire
-		(pts
 			(xy 187.96 34.29) (xy 187.96 36.83)
 		)
 		(stroke
@@ -4563,6 +4575,16 @@
 			(type default)
 		)
 		(uuid "54153ed4-4f01-4745-8879-af003d30d64f")
+	)
+	(wire
+		(pts
+			(xy 218.44 88.9) (xy 213.36 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54ed0dd5-c21c-4f51-837f-885041430929")
 	)
 	(wire
 		(pts
@@ -4693,6 +4715,16 @@
 			(type default)
 		)
 		(uuid "5f54cc33-5d3c-4d07-8fee-e695cfe301e5")
+	)
+	(wire
+		(pts
+			(xy 111.76 38.1) (xy 113.03 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "600df3dd-66f1-428a-98af-b2f460727c0d")
 	)
 	(wire
 		(pts
@@ -4886,6 +4918,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 88.9) (xy 218.44 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7650a561-18f8-4f86-b656-0c4948eb106c")
+	)
+	(wire
+		(pts
 			(xy 127 46.99) (xy 128.27 46.99)
 		)
 		(stroke
@@ -4973,6 +5015,16 @@
 			(type default)
 		)
 		(uuid "8306c03e-bd9d-46f7-809d-ce513bdb6549")
+	)
+	(wire
+		(pts
+			(xy 137.16 41.91) (xy 138.43 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8388122d-558b-4e59-81ad-8d5820eee3b8")
 	)
 	(wire
 		(pts
@@ -5393,16 +5445,6 @@
 			(type default)
 		)
 		(uuid "ac758934-00d2-4e8c-86c9-97b8bba7edc6")
-	)
-	(wire
-		(pts
-			(xy 111.76 43.18) (xy 113.03 43.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "acc16cb2-98a9-44fc-a0b9-41abbb3dac35")
 	)
 	(wire
 		(pts
@@ -5956,7 +5998,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 88.9) (xy 213.36 88.9)
+			(xy 222.25 88.9) (xy 218.44 88.9)
 		)
 		(stroke
 			(width 0)
@@ -6096,16 +6138,6 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 38.1) (xy 113.03 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec7c78c0-743f-4a08-825d-3ad2fe17ce51")
-	)
-	(wire
-		(pts
 			(xy 111.76 31.75) (xy 111.76 38.1)
 		)
 		(stroke
@@ -6233,6 +6265,16 @@
 			(type default)
 		)
 		(uuid "f8035a0d-e005-42ec-bd38-44461aa80879")
+	)
+	(wire
+		(pts
+			(xy 111.76 43.18) (xy 113.03 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa59790b-d385-4203-b554-d5f5407b356b")
 	)
 	(wire
 		(pts
@@ -6379,6 +6421,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL062")
 		(at 146.05 39.37 0)
+		(mirror x)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6386,10 +6429,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "02dc59b4-47a9-490f-92bf-c27fb01b85f2")
 		(property "Reference" "U2"
-			(at 146.05 29.21 0)
+			(at 146.05 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6399,7 +6441,7 @@
 			)
 		)
 		(property "Value" "TL062"
-			(at 146.05 31.75 0)
+			(at 146.05 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6738,7 +6780,8 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small_US")
-		(at 226.06 48.26 180)
+		(at 226.06 48.26 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6746,10 +6789,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "14841156-449a-4bce-bf09-3d09fd1b02da")
 		(property "Reference" "C6"
-			(at 228.6 46.8629 0)
+			(at 228.6 49.6571 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6760,7 +6802,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 228.6 49.4029 0)
+			(at 228.6 47.1171 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7581,6 +7623,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL062")
 		(at 120.65 40.64 0)
+		(mirror x)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7588,10 +7631,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "36b4d582-02dd-49fc-94d8-5ab483fc5aee")
 		(property "Reference" "U1"
-			(at 120.65 30.48 0)
+			(at 120.65 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7601,7 +7643,7 @@
 			)
 		)
 		(property "Value" "TL062"
-			(at 120.65 33.02 0)
+			(at 120.65 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8632,6 +8674,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL062")
 		(at 171.45 39.37 0)
+		(mirror x)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8639,10 +8682,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "55514430-ce16-4dbf-bfe0-4ffeb7b1e95a")
 		(property "Reference" "U3"
-			(at 171.45 29.21 0)
+			(at 171.45 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8652,7 +8694,7 @@
 			)
 		)
 		(property "Value" "TL062"
-			(at 171.45 31.75 0)
+			(at 171.45 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14982,6 +15024,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:TL062")
 		(at 196.85 39.37 0)
+		(mirror x)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14989,10 +15032,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f7baa4c8-ef1b-4a58-ba1d-7ec3a5d6899a")
 		(property "Reference" "U4"
-			(at 196.85 29.21 0)
+			(at 196.85 49.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15002,7 +15044,7 @@
 			)
 		)
 		(property "Value" "TL062"
-			(at 196.85 31.75 0)
+			(at 196.85 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15087,7 +15129,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f80ea8a5-2afb-4861-817c-e6e9a6384139")
 		(property "Reference" "U3"
 			(at 129.54 102.87 0)
