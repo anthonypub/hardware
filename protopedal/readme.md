@@ -27,6 +27,9 @@ Optional: 5v in case I want to do microcontroller stuff.
 
 Very optional: Protis guys have a cool take that plugs directly into a normal breadboard. 
 
+Foot switch wiring: https://madbeanpedals.com/tutorials/downloads/MBP_FootswitchWiring.pdf
 
 
 
+List is here:
+https://www.digikey.com/en/mylists/list/RVMUHCSVVZ
