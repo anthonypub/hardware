@@ -132,7 +132,7 @@
       "ruleAreas": false,
       "symbols": true,
       "text": false,
-      "wires": false
+      "wires": true
     }
   }
 }
