@@ -3854,7 +3854,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 106.68 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -3936,7 +3936,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 69.85 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -4977,7 +4977,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:ASE1E-2M-10-Z_NDC"
 			(at 91.44 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5225,7 +5225,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:SW2_GF-123-0054_CWI"
 			(at 76.2 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -5385,7 +5385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 92.71 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -5958,7 +5958,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:ASE1E-2M-10-Z_NDC"
 			(at 130.81 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -6694,7 +6694,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 52.07 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -6949,7 +6949,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:ASE1E-2M-10-Z_NDC"
 			(at 53.34 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -7407,7 +7407,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 105.41 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -7568,7 +7568,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:SW2_GF-123-0054_CWI"
 			(at 105.41 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -8017,7 +8017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 146.05 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -8260,7 +8260,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Snapeda:SW2_GF-123-0054_CWI"
 			(at 91.44 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -8420,7 +8420,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 76.2 106.68 0)
 			(hide yes)
 			(show_name no)

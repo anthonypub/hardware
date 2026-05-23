@@ -5928,7 +5928,7 @@
 	(footprint "Snapeda:STA_CF14_STP"
 		(layer "F.Cu")
 		(uuid "a126743c-d703-461b-a245-7ca0b9c2ff91")
-		(at 98.425 38.608 90)
+		(at 99.568 38.227 90)
 		(tags "CF14JT1K00 ")
 		(property "Reference" "R4"
 			(at 5.715 0 90)
