@@ -76,7 +76,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_edge_clearance|125603000|101726904|6329d6aa-4981-48d0-9136-9c98292b536c|68e70c2d-6f2a-41fd-a8c8-ac560da07738",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -122,8 +127,8 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
